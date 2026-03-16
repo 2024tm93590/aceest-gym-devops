@@ -3,7 +3,7 @@ from tkinter import ttk, messagebox
 import sqlite3
 from datetime import datetime, date
 import matplotlib.pyplot as plt
-
+#----version----3.0.1
 DB_NAME = "aceest_fitness.db"
 
 
