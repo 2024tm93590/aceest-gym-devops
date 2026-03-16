@@ -2,7 +2,7 @@ import tkinter as tk
 from tkinter import ttk, messagebox
 import sqlite3
 from datetime import datetime
-
+    # ---------- 2.1.2 ----------
 DB_NAME = "aceest_fitness.db"
 
 class ACEestApp:
